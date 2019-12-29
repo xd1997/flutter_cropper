@@ -1,0 +1,5 @@
+XSym
+0096
+0274df5e9b87992cac36abae6331f07e
+../../../TOCropViewController/Objective-C/TOCropViewController/Models/TOCroppedImageAttributes.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               

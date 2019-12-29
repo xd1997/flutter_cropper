@@ -1,0 +1,52 @@
+group 'com.yalantis.flutter_ucrop'
+version '1.0'
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.5.2'
+    }
+}
+
+rootProject.allprojects {
+    repositories {
+        google()
+        jcenter()
+    }
+}
+
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 28
+
+    defaultConfig {
+        minSdkVersion 16
+        vectorDrawables.useSupportLibrary = true
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    lintOptions {
+
+        abortOnError false
+        disable 'InvalidPackage'
+    }
+    sourceSets.main {
+        jni.srcDirs = []
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation "androidx.exifinterface:exifinterface:1.1.0-beta01"
+    implementation "androidx.transition:transition:1.2.0-rc01"
+    implementation "com.squareup.okhttp3:okhttp:3.12.1"
+}

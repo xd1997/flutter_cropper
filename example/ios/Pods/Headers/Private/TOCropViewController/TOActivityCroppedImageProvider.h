@@ -1,0 +1,5 @@
+XSym
+0102
+209577447463c2f20d499a1ee9ce4090
+../../../TOCropViewController/Objective-C/TOCropViewController/Models/TOActivityCroppedImageProvider.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         

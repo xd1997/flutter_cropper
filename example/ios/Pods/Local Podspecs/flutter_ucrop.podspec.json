@@ -1,0 +1,29 @@
+{
+  "name": "flutter_ucrop",
+  "version": "0.0.1",
+  "summary": "图片裁剪插件",
+  "description": "图片裁剪插件",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Your Company": "email@example.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "TOCropViewController": [
+      "~> 2.5.2"
+    ]
+  },
+  "platforms": {
+    "ios": "8.0"
+  }
+}

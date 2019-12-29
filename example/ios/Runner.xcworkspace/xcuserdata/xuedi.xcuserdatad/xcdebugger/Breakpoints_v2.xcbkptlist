@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F7221DD4-4E96-4C21-BE7B-0A62CB76E9CB"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F690F071-6D6B-4E97-908B-64B0034BD865"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../ios/Classes/FlutterUcropPlugin.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "235"
+            endingLineNumber = "235"
+            landmarkName = "-cropViewController:didCropToImage:withRect:angle:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "179DCAC8-7C1D-42E7-A8F8-4EC757EF2523"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../ios/Classes/FlutterUcropPlugin.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "-handleMethodCall:result:"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "179DCAC8-7C1D-42E7-A8F8-4EC757EF2523 - 9b231ccd4740b485"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FlutterUcropPlugin handleMethodCall:result:]"
+                  moduleName = "Runner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/%E9%A1%B9%E7%9B%AE/test/flutter_ucrop/ios/Classes/FlutterUcropPlugin.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "2460">
+               </Location>
+               <Location
+                  uuid = "179DCAC8-7C1D-42E7-A8F8-4EC757EF2523 - 9b231ccd4740b485"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FlutterUcropPlugin handleMethodCall:result:]"
+                  moduleName = "Runner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/%E9%A1%B9%E7%9B%AE/test/flutter_ucrop/ios/Classes/FlutterUcropPlugin.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "2660">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "05099341-28BD-428A-B750-5C8597EE1E97"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../ios/Classes/FlutterUcropPlugin.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "-handleMethodCall:result:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
