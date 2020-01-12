@@ -1,8 +1,8 @@
 name: flutter_ucrop
 description: 图片裁剪插件
-version: 0.0.1
-author:
-homepage:
+version: 1.0.0
+author: X D <735258903@qq.com>
+homepage: https://github.com/xd1997/flutter_cropper.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
